@@ -32,17 +32,17 @@ This is a Face Recognition system built using OpenCV and Python. It uses a machi
 
 
 ## Getting Started
-Clone the repository:
+**1. Clone the repository:**
 ```bash
 git clone https://github.com/Soham-KT/Flappy-Bird-RL.git
 cd Flappy-Bird-RL
 ```
 
-Install the required libraries:
+**2. Install the required libraries:**
 ```bash
 pip install opencv-python numpy face_recognition
 ```
-Run the Face Recognition script:
+**3. Run the Face Recognition script:**
 ```bash
 python face_recognition.py
 ```
